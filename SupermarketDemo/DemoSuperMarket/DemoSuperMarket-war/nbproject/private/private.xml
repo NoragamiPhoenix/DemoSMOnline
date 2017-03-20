@@ -2,14 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/D:/Aptech/FinalProject/DemoSuperMarket/DemoSuperMarket-war/src/java/Controller/AddToCart.java</file>
-            <file>file:/D:/Aptech/FinalProject/DemoSuperMarket/DemoSuperMarket-war/src/java/Model/CartItem.java</file>
-            <file>file:/D:/Aptech/FinalProject/DemoSuperMarket/DemoSuperMarket-war/web/index.jsp</file>
-            <file>file:/D:/Aptech/FinalProject/DemoSuperMarket/DemoSuperMarket-war/web/header.jsp</file>
-            <file>file:/D:/Aptech/FinalProject/DemoSuperMarket/DemoSuperMarket-war/src/java/Controller/index.java</file>
-            <file>file:/D:/Aptech/FinalProject/DemoSuperMarket/DemoSuperMarket-war/web/home.jsp</file>
-            <file>file:/D:/Aptech/FinalProject/DemoSuperMarket/DemoSuperMarket-war/web/WEB-INF/web.xml</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
